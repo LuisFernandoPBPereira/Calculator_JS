@@ -1,5 +1,3 @@
-# CalculatorJS
-
 <h1 align="center">📱 CalculatorJS-ReactNative 📱</h1>
 
 <div align="center">  
